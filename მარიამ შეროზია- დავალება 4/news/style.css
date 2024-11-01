@@ -99,6 +99,8 @@
 	width: 307px;
 	height:24px;
 	padding-top: 0px;
+	font-family: "Roboto", sans-serif;
+
 }
 
 #two-boxes{
@@ -119,6 +121,9 @@
 	display: inline-block;
 	margin-top: 20px;
 	margin-left: 37px;
+	color: #7E8898;
+	font-family: "Roboto", sans-serif;
+
 }
 
 .container{
