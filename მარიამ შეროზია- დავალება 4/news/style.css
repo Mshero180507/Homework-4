@@ -1,0 +1,127 @@
+*{
+	margin: 0px;
+	padding:0px;
+	border: 0;
+	vertical-align: baseline;
+}
+
+#htmltag{
+	color: #30CBC2;
+	font-weight: 700;
+	font-size: 48px;
+	width: 223px;
+	height: 58px;
+	display: inline;
+	margin-right: 60px;
+}
+
+.link{
+	text-decoration: none;
+	color: #8D81FF;
+	font-weight: 700;
+	font-size: 26px;
+}
+
+#second{
+	margin-left: 87px;
+	margin-right: 81px;
+}
+
+#header-set-up{
+	padding-left:63px;
+	padding-top:41px;
+}
+
+.facebook{
+	width: 50px;
+	height: 50px;
+	margin: 0px;
+}
+
+.line{
+	background-color: #5012D5;
+	height: 48px;
+	width: 2px;
+	display: inline-block;
+	margin:0 41px;
+
+}
+
+.youtube{
+	width:71px;
+	height:49px;
+}
+
+#footer-set-up{
+	padding-left:194px;
+	padding-bottom:194px;
+}
+
+#main-set-up{
+	padding:85px 194px 91px 194px;
+}
+
+#title{
+	color: #4E6FAE;
+	font-weight: 700;
+	font-size: 26px;
+	width:150px;
+	height:34px;
+}
+
+#content{
+	color:#4E6FAE;
+	font-weight: 400;
+	font-size: 26px;
+	width:484px;
+	height:34px;
+}
+
+#line{
+	background-color: #5012D5;
+	height: 24px;
+	width: 2px;
+	display: inline-block;
+	margin:0 18px;
+}
+
+.grey-box{
+	background-color: #E7E7E7;
+	width: 500px;
+	height: 192px;
+	display: inline-block;
+	padding: 21px 15px 32px 23px;
+}
+
+#box-title{
+	font-weight: 400;
+	font-size: 20px;
+	width: 307px;
+	height:24px;
+	padding-top: 0px;
+}
+
+#two-boxes{
+    display: flex;
+    align-items: flex-start;
+    gap: 52px;
+
+}
+
+.news-image{
+	width: 77px;
+	height: 77px;
+	margin-top:29px;
+	display: inline-block;
+}
+
+.news-par{
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 37px;
+}
+
+.container{
+	display: flex;
+    align-items: flex-start;
+}
